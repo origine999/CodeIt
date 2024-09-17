@@ -1,0 +1,2 @@
+Hello, welcome to CodeIt!
+Unlock the power of ad-hoc scripting!
